@@ -1,0 +1,10 @@
+/* Define mixin with two arguments */
+.myArticle {
+  border: 1px solid blue;
+}
+
+.myNotes {
+  border: 2px solid red;
+}
+
+/*# sourceMappingURL=passing-variables-to-mixin.css.map */
