@@ -1,0 +1,7 @@
+.myBox {
+  -webkit-transform: rotate(20deg);
+  -ms-transform: rotate(20deg);
+  transform: rotate(20deg);
+}
+
+/*# sourceMappingURL=using-mixin-for-vendor-prefixes.css.map */
