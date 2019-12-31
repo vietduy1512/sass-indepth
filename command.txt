@@ -1,0 +1,11 @@
+// Compile 1 file
+sass ./scss/style.scss ./css/style.css
+
+// Compile all file in folder
+sass ./scss
+
+// Compile all file
+sass --update scss_dir:css_dir
+
+// Watch for changes
+sass --watch --update scss:css
